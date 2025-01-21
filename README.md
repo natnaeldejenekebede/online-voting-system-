@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E - Voting Created Using Django 
 This E - Voting System Was Developed With Django(Python Framework).
 Feel free to make changes based on your requirements.
@@ -244,3 +245,6 @@ Yeah. Pull requests are welcomed.
 Please, let us know. Open up an issue. 
 
 
+=======
+# online-voting-system-
+>>>>>>> d942a588665490bc8dfee137aa9be0b0defe2c0f
